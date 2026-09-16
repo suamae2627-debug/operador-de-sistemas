@@ -1,2 +1,5 @@
-<img width="736" height="840" alt="download (4)" src="https://github.com/user-attachments/assets/7999fede-96fe-4170-a305-1f742cd82c01" />
-# operador-de-sistemas
+
+
+https://github.com/user-attachments/assets/7fc5def6-8a0a-4a8b-a693-265dcef3c4b0
+
+<img width="4032" height="3024" alt="IMG_0810" src="https://github.com/user-attachments/assets/f1f6257c-ee9d-4308-8eec-015be301dc1a" />
