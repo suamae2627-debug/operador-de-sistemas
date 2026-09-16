@@ -21,3 +21,12 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+### C# / Visual Studio ###
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
